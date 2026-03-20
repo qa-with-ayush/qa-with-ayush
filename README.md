@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/banner.png" width="100%" />
+  <img src=""C:\Users\ayush\Downloads\YOUR_BANNER_LINK.gif"" width="100%" />
 </p>
 
 <p align="center">
