@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src=""C:\Users\ayush\Downloads\YOUR_BANNER_LINK.gif"" width="100%" />
+  <img src="https://github.com/qa-with-ayush/qa-with-ayush/blob/main/YOUR_BANNER_LINK.gif" width="100%" />
 </p>
 
 <p align="center">
