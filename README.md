@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm QA TESTER</h1>
+<h1 align="center">Hi 👋, I'm ------
+</h1>
 <h3 align="center">QA Automation Engineer | Selenium | API Testing | SQL</h3>
 
 <p align="center">
@@ -6,35 +7,43 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;API+Testing+Expert;Selenium+%7C+Pytest+%7C+SQL;I+break+systems+for+fun+😎" />
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/banner.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Python+%7C+Selenium+%7C+API+Testing;Bug+Hunter+Mindset+😎;I+break+systems+for+fun" />
 </p>
 
 ---
 
 ## 🌆 About Me
 
-* 🔭 Currently working on **API Testing & Automation Frameworks**
-* 🌱 Learning **Advanced QA | CI/CD | Performance Testing**
-* 💡 Passionate about **finding bugs before users do**
-* 🎯 Goal: Become a **Top 1% QA Engineer**
+* 🔭 Working on **Automation Frameworks & API Testing**
+* 🌱 Learning **CI/CD, Performance Testing**
+* 💡 Love finding **real-world bugs**
+* 🎯 Goal: Become a **Top QA Engineer**
 
 ---
 
 ## 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-00ffcc?style=for-the-badge\&logo=python\&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-00ffcc?style=for-the-badge\&logo=selenium\&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-00ffcc?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-00ffcc?style=for-the-badge\&logo=postman\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00ffcc?style=for-the-badge)
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushGadag&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=ayushGadag&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushGadag&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ayushGadag&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -47,11 +56,11 @@
 
 ## 🚀 Featured Projects
 
-| Project                      | Description                                             |
-| ---------------------------- | ------------------------------------------------------- |
-| 🧪 Selenium Framework        | POM based automation using Selenium + Pytest + Allure   |
-| 🔗 API Testing Project 🚧    | REST API testing with authentication, CRUD & validation |
-| 🐞 Bug Hunting Playground 🚧 | Real-world bugs with reports, test cases & edge cases   |
+| Project                      | Description                                           |
+| ---------------------------- | ----------------------------------------------------- |
+| 🧪 Selenium Framework        | POM based automation using Selenium + Pytest + Allure |
+| 🔗 API Testing Project 🚧    | REST API testing (CRUD, Auth, Validation)             |
+| 🐞 Bug Hunting Playground 🚧 | Real bugs, reports, edge case testing                 |
 
 ---
 
@@ -66,15 +75,15 @@
 
 ## 🏆 Achievements
 
-* 🚀 Built scalable Selenium framework
-* 🔥 Practicing real-world bug hunting
+* 🚀 Built Selenium automation framework
+* 🔥 Practicing API & bug testing
 * 📈 Consistent GitHub contributions
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [ayushgadag09@gmail.com](mailto:ayushgadag09@gmail.com)
+* 📧 [ayushgadag09@gmail.com](mailto:ayushgadag09@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
 
 ---
